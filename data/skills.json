@@ -7,26 +7,26 @@
             "Python",
             "Swift",
             "Java",
-            "Scala",
             "C++",
-            "GoLang",
-            "Pyret",
             "Racket",
             "HTML",
-            "CSS"
+            "CSS",
+            "R"
         ]
     },
     {
         "title":"Front-End",
         "items":[
-            "Angular",
             "React",
+            "Remix.js",
             "Next.js",
             "React Native",
             "jQuery",
             "Tailwind CSS",
-            "Material UI",
-            "SASS"
+            "DaisyUI",
+            "Bootstrap",
+            "Velocity",
+            "Material UI"
         ]
     },
     {
@@ -38,23 +38,12 @@
             "Flask",
             "Node.js",
             "Express",
+            "PostgreSQL",
             "MongoDB",
-            "GraphQL",
-            "REST",
-            "OAuth 2.0",
+            "MySQL",
+            "Supabase",
+            "Scikit Learn",
             "JWT Authentication"
-        ]
-    },
-    {
-        "title":"iOS Development",
-        "items":[
-            "Swift UI",
-            "UI Kit",
-            "Storyboards",
-            "Core Data",
-            "CloudKit",
-            "App Store Connect",
-            "Realm"
         ]
     },
     {
@@ -64,11 +53,6 @@
             "Heroku",
             "AWS Lambda",
             "Docker",
-            "Google Cloud Functions",
-            "Google Cloud Memorystore",
-            "Google Kubernetes Engine",
-            "Google Cloud Filestore",
-            "Google Identity Platform",
             "Firebase"
         ]
     },
@@ -77,18 +61,17 @@
         "items":[
             "Pandas",
             "Numpy",
-            "PySpark",
-            "Scikit Learn",
-            "Statsmodels",
-            "spaCy",
+            "Tableau",
             "Git",
             "Wordpress",
             "Jupyter Notebook",
+            "PowerBI",
+            "OpenCV",
+            "Clerk",
+            "Stripe",
+            "Sentry",
+            "Redis",
             "Figma",
-            "Photoshop",
-            "Illustrator",
-            "Adobe XD",
-            "Premier Pro",
             "Selenium"
         ]
     }

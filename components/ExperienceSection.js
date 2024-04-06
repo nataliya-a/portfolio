@@ -22,6 +22,9 @@ export default function ExperienceSection({experiences}) {
                                     <p className="font-medium text-gray-600 dark:text-gray-400">{experience.company}</p>
                                 </div>
                                 <p className="mt-0.5 text-sm text-gray-500">
+                                    {experience.location}
+                                </p>
+                                <p className="mt-0.5 text-sm text-gray-500">
                                     {experience.start} - {experience.end}
                                 </p>
                             </div>

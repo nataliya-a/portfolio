@@ -21,9 +21,10 @@ export default function ProjectsGrid({projects}) {
                 </div>
                 <div className="flex-1 bg-white dark:bg-gray-800 p-6 flex flex-col justify-between">
                     <div className="flex-1">
-                        <h3 className="text-xl font-semibold text-gray-800 dark:text-white">
+                        <h3 className="text-xl font-semibold text-gray-800 dark:text-white inline-block">
                             {project.title}
                         </h3>
+
                         <p className="mt-1 text-base leading-6 text-gray-500 dark:text-gray-400">
                             {project.description}
                         </p>

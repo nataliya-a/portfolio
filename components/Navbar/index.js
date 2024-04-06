@@ -17,7 +17,7 @@ const Navbar = () => {
                 <nav className="space-x-4">
                     {router.pathname !== "/" && <Link href="/">
                         <a className="text-black dark:text-white text-lg md:text-xl font-semibold">
-                            Nathan Benavides-Luu
+                            Nataliya Karmarkar
                         </a>
                     </Link>}
                 </nav>
@@ -42,6 +42,7 @@ const Navbar = () => {
                     <SocialLinkButton name="linkedin" href={socials.linkedIn} fontAwesomeClassname="fab fa-linkedin"/>
                     <SocialLinkButton name="instagram" href={socials.instagram}
                                       fontAwesomeClassname="fab fa-instagram"/>
+                    <SocialLinkButton name="spotify" href={socials.spotify} fontAwesomeClassname="fab fa-spotify"/>
                 </div>
             </div>
         </div>

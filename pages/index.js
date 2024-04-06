@@ -17,18 +17,17 @@ export default function Home() {
                     <span className="text-2xl">{timeGreeting()}! My name is</span>
                     <div className="text-3xl sm:text-4xl md:text-5xl font-bold mt-2">
                         <div>
-                            Nathan Benavides-Luu.
+                            Nataliya Karmarkar
                         </div>
-                        <div>
-                            I build things for the web.
+                        <div className="text-2xl sm:text-3xl md:text-4xl font-normal mt-2">
+                            I love building things.
                         </div>
                     </div>
                 </h1>
                 <p className="max-w-4xl mt-5 text-lg md:text-xl text-gray-500 dark:text-gray-400">
-                    I'm a sophmore studying Applied Mathematics-Computer Science at Brown University and an entrepreneurial full-stack
-                    developer with a passion for building accessible and
-                    useful tools for
-                    education.
+                    I'm a grad student at the University of San Francisco studying Computer Science. I'm passionate about
+                    building software that solves real-world problems and helps people. I'm currently looking for
+                    full-time software engineering opportunities starting in Summer 2024.
                 </p>
             </div>
 

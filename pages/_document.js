@@ -15,7 +15,7 @@ class MyDocument extends Document {
                     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
                     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
                     <link rel="manifest" href="/site.webmanifest"/>
-
+                    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍄</text></svg>"/>
                     {/*inter web font*/}
                     <link rel="stylesheet" href="https://rsms.me/inter/inter.css"/>
                     {/*font awesome icons*/}
@@ -24,7 +24,7 @@ class MyDocument extends Document {
                     {/*metadata*/}
                     <meta
                         property="og:title"
-                        content="Nathan Benavides-Luu"
+                        content="Nataliya Karmarkar"
                     />
                     <meta
                         name="image"
@@ -33,7 +33,7 @@ class MyDocument extends Document {
                     />
                     <meta
                         name="author"
-                        content="Nathan Benavides-Luu"
+                        content="Nataliya Karmarkar"
                     />
                     <meta
                         property="og:description"
@@ -41,7 +41,7 @@ class MyDocument extends Document {
                     />
                     <meta
                         property="og:url"
-                        content="https://www.nathan-luu.com"/>
+                        content="https://www.nataliyakarmarkar.com" />
                 </Head>
                 <body>
                 <Main/>

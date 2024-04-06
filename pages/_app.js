@@ -28,7 +28,7 @@ function MyApp({Component, pageProps}) {
 
     return <DarkModeContext.Provider value={[darkMode, toggleDarkMode]}>
         <Head>
-            <title>Nathan Benavides-Luu</title>
+            <title>Nataliya Karmarkar</title>
         </Head>
         <Component {...pageProps} />
     </DarkModeContext.Provider>
