@@ -3,7 +3,7 @@
     "title":"Mochiday",
     "description":"A website that fetches new jobs everyday so you can spend less time searching and more time applying",
     "image":"project_images/mochiday.png",
-    "href":"https://mochiday.co",
+    "href":"https://mochiday.co/dashboard/jobs",
     "stack": [
       "Typescript",
       "React",
