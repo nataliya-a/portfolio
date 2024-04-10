@@ -29,6 +29,23 @@
       "Postgres",
       "Node.js"
     ]
+  },
+  {
+    "title":"Big Head",
+    "description":"An AI powered Phaser game where you enter as many unrelated words as possible under 1 minute to win",
+    "image":"project_images/frog.png",
+    "href":"https://sagnat.itch.io/bighead",
+    "stack": [
+      "Phaser 3",
+      "OpenAI",
+      "Typescript",
+      "Postgres",
+      "Python",
+      "nltk",
+      "HTML5",
+      "Vercel Functions"
+    ]
   }
+
   
 ]
