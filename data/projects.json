@@ -17,6 +17,36 @@
     ]
   },
   {
+    "title":"Network Congestion Detector",
+    "description":"Detecting the presence of network compression in cooperative and non-cooperative networks",
+    "image":"project_images/networks.png",
+    "href":"https://github.com/nataliya-a/networks_proj1",
+    "stack": [
+      "C",
+      "TCP",
+      "UDP",
+      "Socket Programming",
+      "Entropy",
+      "Packet Design"
+    ]
+  },
+  {
+    "title":"Lit Tunes", 
+    "description":"An AI project that helps you find similar music to listen to while reading a book",
+    "image":"project_images/lit_tunes.png",
+    "href":"https://github.com/nataliya-a/MLProject",
+    "stack": [
+      "Python",
+      "Doc2Vec",
+      "Spotify API",
+      "Flask",
+      "Plotly",
+      "Pandas",
+      "Numpy",
+      "Scikit-learn"
+    ]
+  },
+  {
     "title":"Tractr",
     "description":"A web app that helps keep track of your everyday tasks and habits",
     "image":"project_images/tractor.png",
@@ -45,7 +75,22 @@
       "HTML5",
       "Vercel Functions"
     ]
+  },
+  {
+    "title":"Travello",
+    "description":"A website that helps you find the best hotel in San Francisco",
+    "image":"project_images/travello.png",
+    "href":"https://github.com/nataliya-a/Travello",
+    "stack": [
+      "Java",
+      "JavaScript",
+      "Jetty",
+      "Postgres",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "Servlets",
+      "Multi-threading"
+    ]
   }
-
-  
 ]
