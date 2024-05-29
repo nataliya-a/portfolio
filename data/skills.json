@@ -26,7 +26,15 @@
             "DaisyUI",
             "Bootstrap",
             "Velocity",
-            "Material UI"
+            "Material UI",
+            "Puppeteer",
+            "Selenium",
+            "Jest",
+            "Framer Motion",
+            "Three.js",
+            "Chart.js",
+            "Mapbox",
+            "Leaflet"
         ]
     },
     {
@@ -43,7 +51,11 @@
             "MySQL",
             "Supabase",
             "Scikit Learn",
-            "JWT Authentication"
+            "JWT Authentication",
+            "OAuth",
+            "Socket.io",
+            "WebSockets",
+            "Nginx"
         ]
     },
     {
@@ -53,7 +65,17 @@
             "Heroku",
             "AWS Lambda",
             "Docker",
-            "Firebase"
+            "Firebase",
+            "AWS SQS",
+            "AWS SNS",
+            "AWS EC2",
+            "AWS RDS",
+            "AWS CloudFront",
+            "AWS CloudWatch",
+            "AWS Route 53",
+            "AWS ECS",
+            "AWS ECR",
+            "AWS EKS"
         ]
     },
     {

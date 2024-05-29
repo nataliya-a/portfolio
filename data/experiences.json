@@ -1,21 +1,21 @@
 [
   {
-    "title":"Software Engineer",
+    "title":"Full Stack Software Engineer",
     "company":"University of San Francisco",
     "location":"San Francisco, CA",
     "start":"Aug 2023",
-    "end":"Present",
-    "description": "I work with the Operations Team of the School of Nursing. I am responsible for the development and maintenance of the School of Nursing's internal applications. Recently, I developed a new dashboard for the Office of the Dean that helps track course load and faculty availability.",
+    "end":"May 2024",
+    "description": "I worked with the Operations Team of the School of Nursing. I was responsible for the development and maintenance of the School of Nursing's internal applications. Recently, I developed a new dashboard for the Office of the Dean that helps track course load and faculty availability.",
     "image":"/experience_images/usf.png"
   },
   {
-    "title":"Software Engineer",
-    "company":"Scale AI",
+    "title":"Full Stack Software Engineer",
+    "company":"JuicyLabel",
     "location":"San Francisco, CA",
-    "start":"May 2022",
-    "end":"Dec 2022",
-    "description":"I worked with the Machine Learning Team to correctly identify and label objects in images, significantly increasing the accuracy of the company's AI models. I also worked on improving LLMs for the company's AI models.",
-    "image":"/experience_images/scale.jpeg"
+    "start":"June 2022",
+    "end":"June 2023",
+    "description":"I worked on a new feature that allows users to publish their songs and albums on the platform. I also worked on the development of a new feature that allows the fans to interact with the art and support the artists, hence giving them a chance to get discovered.",
+    "image":"/experience_images/juicylabel.jpeg"
   },
   {
     "title":"Software Engineer",
@@ -31,7 +31,7 @@
     "company":"Wattpad",
     "location":"Toronto, Canada",
     "start":"Jan 2020",
-    "end":"Nov 2021",
+    "end":"May 2020",
     "description": "I worked on the development of marketing and advertising algorithms leading to a 500+ increase in global downloads within three months, optimized internal scheduling algorithms for three local events to accommodate 800+ concurrent signups, and implemented Python scripts automating CI/CD processes, resulting in a 54% reduction in deployment time.",
     "image":"/experience_images/wattpad.png"
   }
