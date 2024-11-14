@@ -1,5 +1,14 @@
 [
   {
+    "title":"Software Engineer",
+    "company":"HubSpot",
+    "location":"Cambridge, MA",
+    "start":"Sept 2024",
+    "end":"Present",
+    "description": "I currently work on the Socials and Ads team within HubSpot's Marketing Hub. I focus on frontend development, building and enhancing features to improve user engagement, increase user retention and streamline social media management for marketing professionals.",
+    "image":"/experience_images/hubspot.png"
+  },
+  {
     "title":"Full Stack Software Engineer",
     "company":"University of San Francisco",
     "location":"San Francisco, CA",
@@ -7,15 +16,6 @@
     "end":"May 2024",
     "description": "I worked with the Operations Team of the School of Nursing. I was responsible for the development and maintenance of the School of Nursing's internal applications. Recently, I developed a new dashboard for the Office of the Dean that helps track course load and faculty availability.",
     "image":"/experience_images/usf.png"
-  },
-  {
-    "title":"Full Stack Software Engineer",
-    "company":"JuicyLabel",
-    "location":"San Francisco, CA",
-    "start":"June 2022",
-    "end":"June 2023",
-    "description":"I worked on a new feature that allows users to publish their songs and albums on the platform. I also worked on the development of a new feature that allows the fans to interact with the art and support the artists, hence giving them a chance to get discovered.",
-    "image":"/experience_images/juicylabel.jpeg"
   },
   {
     "title":"Software Engineer",
